@@ -1,0 +1,83 @@
+{
+  "webdesign1": {
+    "order": 1,
+    "title": "3D Room Portfolio",
+    "description": "Interactive 3D Environment Experience - An immersive portfolio showcasing work in a virtual 3D room environment",
+    "url": "https://1.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=3D+Room+Portfolio",
+    "tags": "3D, Interactive, WebGL",
+    "featured": true
+  },
+  "webdesign2": {
+    "order": 2,
+    "title": "CS Vault",
+    "description": "Programming Solutions Repository - A comprehensive collection of computer science solutions and algorithms",
+    "url": "https://2.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=CS+Vault",
+    "tags": "Programming, Algorithms, Education",
+    "featured": true
+  },
+  "webdesign3": {
+    "order": 3,
+    "title": "Portfolio V7",
+    "description": "Project Gallery - A comprehensive gallery-style portfolio showcasing projects with visual emphasis",
+    "url": "https://3.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V7",
+    "tags": "Gallery, Visual, Portfolio",
+    "featured": true
+  },
+  "webdesign4": {
+    "order": 4,
+    "title": "Portfolio V1",
+    "description": "Modern Design Showcase - A clean and modern portfolio design focusing on minimalism and user experience",
+    "url": "https://4.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V1",
+    "tags": "Portfolio, Modern, Minimalist",
+    "featured": true
+  },
+  "webdesign5": {
+    "order": 5,
+    "title": "Portfolio V2",
+    "description": "Typography-Focused Design - An elegant portfolio emphasizing beautiful typography and content hierarchy",
+    "url": "https://5.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V2",
+    "tags": "Typography, Design, Portfolio",
+    "featured": false
+  },
+  "webdesign6": {
+    "order": 6,
+    "title": "Portfolio V3",
+    "description": "Creative Layout Exploration - Experimental portfolio design with unique layouts and creative interactions",
+    "url": "https://6.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V3",
+    "tags": "Creative, Experimental, Layout",
+    "featured": false
+  },
+  "webdesign7": {
+    "order": 7,
+    "title": "Portfolio V4",
+    "description": "Personal Playground - A personal experimental space for testing new ideas and design concepts",
+    "url": "https://7.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V4",
+    "tags": "Experimental, Personal, Playground",
+    "featured": false
+  },
+  "webdesign8": {
+    "order": 8,
+    "title": "Portfolio V5",
+    "description": "Animated Experience - A portfolio featuring smooth animations and engaging micro-interactions",
+    "url": "https://8.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V5",
+    "tags": "Animation, Interactive, Motion",
+    "featured": false
+  },
+  "webdesign9": {
+    "order": 9,
+    "title": "Portfolio V6",
+    "description": "Comprehensive Showcase - A complete portfolio solution with all essential sections and features",
+    "url": "https://9.prasidhshetty.in/",
+    "thumbnail": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Portfolio+V6",
+    "tags": "Complete, Showcase, Professional",
+    "featured": false
+  }
+}

@@ -7,8 +7,8 @@
       <nav class="navbar">
         <ul class="navbar-menu">
           <li class="navbar-menu__item">
-            <router-link class="navbar-menu__link" to="/articles">
-              articles
+            <router-link class="navbar-menu__link" to="/websites">
+              websites
             </router-link>
           </li>
           <li class="navbar-menu__item">
@@ -30,8 +30,8 @@
     </div>
     <MobileNavbar @close="toggleMenu(false)">
       <li class="navbar-menu__item">
-        <router-link class="navbar-menu__link" to="/articles">
-          /articles
+        <router-link class="navbar-menu__link" to="/websites">
+          /websites
         </router-link>
       </li>
       <li class="navbar-menu__item">

@@ -1,7 +1,7 @@
 <template>
   <main id="main-content">
     <HeroSection />
-    <PostsList />
+    <WebsitesList />
     <ProjectsGrid />
     <GithubProjects />
   </main>
