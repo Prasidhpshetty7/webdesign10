@@ -1,0 +1,65 @@
+====================================
+GITHUB REPOSITORY DESCRIPTION
+====================================
+
+Copy and paste this when creating your GitHub repository:
+
+SHORT DESCRIPTION (for GitHub):
+------------------------------------
+Personal portfolio website showcasing my work as a Web Designer & Full-Stack Developer. Built with Vue 3, Vite, and modern web technologies.
+
+
+LONG DESCRIPTION (for README or About section):
+------------------------------------
+🚀 Modern portfolio website built with Vue 3 and Vite, featuring a clean design, dark/light theme, blog system, and project showcase. Fully responsive, SEO optimized, and deployed on Vercel. Showcasing my skills in web design, full-stack development, and modern frontend technologies.
+
+
+TOPICS/TAGS (add these to your GitHub repo):
+------------------------------------
+portfolio
+vue3
+vite
+web-development
+full-stack
+web-design
+personal-website
+responsive-design
+pwa
+vercel
+vue-router
+markdown
+static-site
+frontend
+javascript
+
+
+WEBSITE URL (add after deployment):
+------------------------------------
+https://your-portfolio.vercel.app
+
+
+REPOSITORY SETTINGS:
+------------------------------------
+✅ Public repository (recommended for portfolio)
+✅ Include README
+✅ Add .gitignore (Node)
+✅ Choose Apache License 2.0
+✅ Add topics/tags listed above
+✅ Enable Issues
+✅ Enable Discussions (optional)
+
+
+SOCIAL PREVIEW IMAGE:
+------------------------------------
+After deployment, add a screenshot of your portfolio as the social preview image:
+1. Go to repository Settings
+2. Scroll to "Social preview"
+3. Upload a 1280x640px image of your portfolio
+
+
+ABOUT SECTION:
+------------------------------------
+Personal portfolio - Web Designer & Full-Stack Developer | Vue 3 + Vite | Modern, responsive, and performant
+
+
+====================================

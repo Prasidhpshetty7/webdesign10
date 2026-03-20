@@ -1,0 +1,31 @@
+{
+  "project1": {
+    "order": 1,
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+1",
+    "title": "Your Project 1",
+    "tags": "React, Node.js, MongoDB",
+    "demo": "https://your-demo-link.com",
+    "github": "https://github.com/Prasidhpshetty7/project1",
+    "pinned": true,
+    "description": "Add your project description here"
+  },
+  "project2": {
+    "order": 2,
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+2",
+    "title": "Your Project 2",
+    "tags": "Vue.js, Express, PostgreSQL",
+    "demo": "https://your-demo-link.com",
+    "github": "https://github.com/Prasidhpshetty7/project2",
+    "pinned": true,
+    "description": "Add your project description here"
+  },
+  "project3": {
+    "order": 3,
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+3",
+    "title": "Your Project 3",
+    "tags": "Full Stack, TypeScript",
+    "github": "https://github.com/Prasidhpshetty7/project3",
+    "pinned": true,
+    "description": "Add your project description here"
+  }
+}
