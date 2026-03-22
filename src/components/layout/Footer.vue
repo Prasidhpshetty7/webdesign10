@@ -3,7 +3,7 @@
     <div class="container">
       <p class="footer__copyright">
         <em>Made with ♥ by Prasidh</em>
-        <span>@2024 - Present. All rights reserved.</span>
+        <span>@2026 - Present. All rights reserved.</span>
       </p>
       <div class="built-tech">
         <AppLink to="https://www.netlify.com/" aria-label="Hosted on Netlify" is-external>
