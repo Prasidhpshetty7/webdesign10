@@ -25,7 +25,7 @@ If you have suggestions or wish to collaborate on any project, feel free to reac
 
 - GitHub: [@Prasidhpshetty7](https://github.com/Prasidhpshetty7)
 - LinkedIn: [Prasidh P Shetty](https://www.linkedin.com/in/prasidhpshetty/)
-- Instagram: [@mr__shxtty](https://www.instagram.com/mr__shxtty/)
+- Instagram: [@prasidhpshetty](https://www.instagram.com/prasidhpshetty/)
 - X (Twitter): [@prasidhpshetty](https://x.com/prasidhpshetty)
 - Discord: [prasidhshetty](https://discord.com/users/prasidhshetty)
 - Telegram: [@FINALSKULL](https://t.me/FINALSKULL)
