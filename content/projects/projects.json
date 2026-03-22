@@ -5,7 +5,7 @@
     "title": "macOS Web Clone",
     "tags": "HTML, CSS, JavaScript",
     "demo": "https://macos-web-prasidhshetty.vercel.app/",
-    "github": "https://github.com/Prasidhpshetty7/macos-web",
+    "github": "https://github.com/Prasidhpshetty7/macos-web-main",
     "pinned": true,
     "description": "Realistic Desktop Environment - A pixel-perfect recreation of macOS interface built with web technologies"
   },
@@ -25,7 +25,7 @@
     "title": "Text to Handwriting",
     "tags": "JavaScript, Canvas API, Image Processing",
     "demo": "https://handwriter-prasidhshetty.vercel.app/",
-    "github": "https://github.com/Prasidhpshetty7/text-to-handwriting",
+    "github": "https://github.com/Prasidhpshetty7/text-to-handwriting-master",
     "pinned": true,
     "description": "Text to Handwriting Converter - Convert digital text into realistic handwritten notes with customizable fonts and styles"
   }
