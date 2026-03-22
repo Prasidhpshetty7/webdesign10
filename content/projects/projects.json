@@ -25,7 +25,7 @@
     "title": "Text to Handwriting",
     "tags": "JavaScript, Canvas API, Image Processing",
     "demo": "https://handwriter-prasidhshetty.vercel.app/",
-    "github": "https://github.com/Prasidhpshetty7/text-to-handwriting-master",
+    "github": "https://github.com/Prasidhpshetty7/handwriter",
     "pinned": true,
     "description": "Text to Handwriting Converter - Convert digital text into realistic handwritten notes with customizable fonts and styles"
   }
