@@ -219,7 +219,7 @@ portfolio/
 - 💼 **LinkedIn**: [linkedin.com/in/prasidhpshetty](https://www.linkedin.com/in/prasidhpshetty/)
 - 🐙 **GitHub**: [@Prasidhpshetty7](https://github.com/Prasidhpshetty7)
 - 📸 **Instagram**: [@mr__shxtty](https://www.instagram.com/mr__shxtty/)
-- 🐦 **X (Twitter)**: [@ShettyPrasidh7](https://x.com/ShettyPrasidh7)
+- 🐦 **X (Twitter)**: [@prasidhpshetty](https://x.com/prasidhpshetty)
 - 💬 **Discord**: [prasidhshetty](https://discord.com/users/prasidhshetty)
 - 📧 **Email**: [shettyprasidh262@gmail.com](mailto:shettyprasidh262@gmail.com)
 
