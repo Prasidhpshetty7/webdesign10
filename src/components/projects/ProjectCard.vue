@@ -1,9 +1,5 @@
 <template>
   <div class="project-card">
-    <figure class="project-thumbnail">
-      <img-lazy :src="thumbnail" :alt="`${title} project screenshot`" class="project-card__image" width="500"
-        height="200" />
-    </figure>
     <div class="project-card__content">
       <div class="project-card__header">
         <h4 :id="titleId">{{ title }}</h4>
@@ -24,10 +20,6 @@
 import { computed } from 'vue'
 
 const props = defineProps({
-  thumbnail: {
-    type: String,
-    required: true,
-  },
   title: {
     type: String,
     required: true,
