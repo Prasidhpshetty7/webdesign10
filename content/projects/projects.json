@@ -1,31 +1,32 @@
 {
-  "project1": {
+  "macos-web": {
     "order": 1,
-    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+1",
-    "title": "Your Project 1",
-    "tags": "React, Node.js, MongoDB",
-    "demo": "https://your-demo-link.com",
-    "github": "https://github.com/Prasidhpshetty7/project1",
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=macOS+Web+Clone",
+    "title": "macOS Web Clone",
+    "tags": "HTML, CSS, JavaScript",
+    "demo": "https://macos-web-prasidhshetty.vercel.app/",
+    "github": "https://github.com/Prasidhpshetty7/macos-web",
     "pinned": true,
-    "description": "Add your project description here"
+    "description": "Realistic Desktop Environment - A pixel-perfect recreation of macOS interface built with web technologies"
   },
-  "project2": {
+  "stockscan": {
     "order": 2,
-    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+2",
-    "title": "Your Project 2",
-    "tags": "Vue.js, Express, PostgreSQL",
-    "demo": "https://your-demo-link.com",
-    "github": "https://github.com/Prasidhpshetty7/project2",
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=StockScan",
+    "title": "StockScan",
+    "tags": "React, Node.js, Stock Market",
+    "demo": "https://stockscan-prasidhshetty.vercel.app/",
+    "github": "https://github.com/Prasidhpshetty7/stockscan",
     "pinned": true,
-    "description": "Add your project description here"
+    "description": "Stock Market Analysis Tool - Real-time stock screening and analysis platform with advanced filtering capabilities"
   },
-  "project3": {
+  "handwriter": {
     "order": 3,
-    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Project+3",
-    "title": "Your Project 3",
-    "tags": "Full Stack, TypeScript",
-    "github": "https://github.com/Prasidhpshetty7/project3",
+    "thumbnail": "https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Handwriter",
+    "title": "Text to Handwriting",
+    "tags": "JavaScript, Canvas API, Image Processing",
+    "demo": "https://handwriter-prasidhshetty.vercel.app/",
+    "github": "https://github.com/Prasidhpshetty7/text-to-handwriting",
     "pinned": true,
-    "description": "Add your project description here"
+    "description": "Text to Handwriting Converter - Convert digital text into realistic handwritten notes with customizable fonts and styles"
   }
 }
