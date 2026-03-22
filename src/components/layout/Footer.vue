@@ -6,8 +6,8 @@
         <span>@2026 - Present. All rights reserved.</span>
       </p>
       <div class="built-tech">
-        <AppLink to="https://www.netlify.com/" aria-label="Hosted on Netlify" is-external>
-          <NetlifyLogoSVG />
+        <AppLink to="https://vercel.com/" aria-label="Deployed on Vercel" is-external>
+          <VercelLogoSVG />
         </AppLink>
         <AppLink to="https://vuejs.org/" aria-label="Built with Vue" title="Built with Vue.js" is-external>
           <VueSVG />
