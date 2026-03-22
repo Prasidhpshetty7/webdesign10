@@ -47,33 +47,17 @@ const buttonId = computed(() => `button-${titleSlug}`)
 <style scoped>
 .project-card {
   display: flex;
-}
-
-.project-thumbnail {
-  flex-basis: 50%;
-  border-radius: var(--radius-default) 0 0 var(--radius-default);
-}
-
-.project-card__image {
-  border-radius: inherit;
-  object-fit: cover;
-  object-position: top center;
-  height: 200px;
-  min-height: 100%;
-
-  &.lozad {
-    filter: blur(0);
-  }
+  width: 100%;
 }
 
 .project-card__content {
   display: flex;
   flex-flow: column;
   justify-content: space-between;
-  flex-basis: 50%;
+  width: 100%;
   background-color: var(--bg-color-lighter, var(--color-gray-800));
   padding: 1.125rem;
-  border-radius: 0 var(--radius-default) var(--radius-default) 0;
+  border-radius: var(--radius-default);
   border: 1px solid transparent;
 }
 
